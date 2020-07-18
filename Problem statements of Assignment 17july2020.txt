@@ -1,0 +1,15 @@
+1>
+   Html file is given ,we have to create An main.css file and flexstyle.css file 
+   and linked both with the assignmentflexbox.html
+   and view the output ,given to the Assignment.
+
+
+2> difference between-
+                em and rem with demo.
+
+
+3> index.html and style.css file is given 
+       in style.css we have to write the skew(),scale(),rotate(),translate()methods.
+
+                                             -date 17July2020 microsoft fullstack batch.
+ 
