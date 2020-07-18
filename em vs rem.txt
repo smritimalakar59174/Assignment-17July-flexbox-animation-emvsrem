@@ -1,0 +1,5 @@
+Difference between em And rem.
+      Ans:In CSS
+              rem : a CSS unit which is relative to the font size of the html element.
+               em : a CSS unit which is relative to the font size of the parent element.
+          Example:
